@@ -11,6 +11,9 @@ a{
     font-size: 23px;
     padding: 10px;
 }
+a:hover{
+    color: #74512D;
+}
 h1{
     color: white;
 }
