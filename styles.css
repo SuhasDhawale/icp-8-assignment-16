@@ -21,4 +21,15 @@ h1{
 }
 body{
     background-color: #d9eaee;
+    background-image: url(bgimg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.share{
+    border: solid 2px;
+    border-radius: 5px 0px 5px 0px;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    
 }
