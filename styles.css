@@ -1,4 +1,22 @@
 img{
+    padding: 10px;
     height: 50px;
     width: 50px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 23px;
+    padding: 10px;
+}
+h1{
+    color: white;
+}
+.header{
+    position: sticky;
+    top: 0;
+    background-color: black;
+}
+body{
+    background-color: #d9eaee;
 }
