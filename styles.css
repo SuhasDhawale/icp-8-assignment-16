@@ -18,6 +18,8 @@ h1{
     color: white;
 }
 .header{
+    width: 100%;
+    margin-left: 0px;
     position: sticky;
     top: 0;
     background-color: black;
@@ -27,6 +29,8 @@ body{
     background-image: url(bgimg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    width: 100%;
+    margin-left: 0px;
 }
 .share{
     border: solid 2px #74512D;
