@@ -29,10 +29,10 @@ body{
     background-repeat: no-repeat;
 }
 .share{
-    border: solid 2px;
+    border: solid 2px #74512D;
     border-radius: 20px 0px 20px 0px;
     position: fixed;
-    top: 60px;
+    bottom: 60px;
     right: 20px;
     height: 50px;
     width: auto;
